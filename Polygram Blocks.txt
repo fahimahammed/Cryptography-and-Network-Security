@@ -1,0 +1,10 @@
+cat dog
+the fox
+and bee
+sun sky
+car bus
+run fun
+dog pig
+hot ice
+map tab
+key lock
