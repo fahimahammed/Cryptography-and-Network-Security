@@ -1,12 +1,12 @@
 # Cryptography-and-Network-Security
 
 ## Problems:
-1. Caesar cipher
+1. Caesar cipher - OK
 2. Lehmanns Primality Test
 3. Miller-Rabin Primality Test
 4. Polygram Substitution Cipher 
-5. Transposition Cipher 
-6. Double Transposition Cipher 
+5. Transposition Cipher - OK
+6. Double Transposition Cipher  - OK
 7. One Time Pad 
 8. Lehmann Algorithm
 9. Robin-Miller Algorithm
