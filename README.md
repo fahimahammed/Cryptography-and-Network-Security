@@ -7,7 +7,7 @@
 4. Polygram Substitution Cipher 
 5. Transposition Cipher - OK
 6. Double Transposition Cipher  - OK
-7. One Time Pad 
+7. One Time Pad - OK
 8. Lehmann Algorithm
 9. Robin-Miller Algorithm
 10. RSA Algorithm
