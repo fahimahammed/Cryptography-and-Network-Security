@@ -8,10 +8,10 @@
 5. Transposition Cipher - OK
 6. Double Transposition Cipher  - OK
 7. One Time Pad - OK
-8. Lehmann Algorithm
-9. MD5
-10. SHA
-11. RSA Algorithm
+8. Lehmann Algorithm - OK
+9. MD5 - OK
+10. SHA - OK
+11. RSA Algorithm - OK
 12. Diffie-Hellman Key Exchange - OK
 
 
