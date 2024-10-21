@@ -3,8 +3,8 @@
 ## Problems:
 1. Caesar cipher - OK
 2. Lehmanns Primality Test - OK
-3. Miller-Rabin Primality Test 
-4. Polygram Substitution Cipher 
+3. Miller-Rabin Primality Test - OK
+4. Polygram Substitution Cipher - OK
 5. Transposition Cipher - OK
 6. Double Transposition Cipher  - OK
 7. One Time Pad - OK
