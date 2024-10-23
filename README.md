@@ -34,7 +34,7 @@ CSE-4232P (Cryptography and Network Security)
 
 ✅ 6. Use the Lehmann algorithm to check whether the given number P is prime or not?
 
-7. Use the Robin-Miller algorithm to check whether the given number P is prime or not?  
+✅ 7. Use the Robin-Miller algorithm to check whether the given number P is prime or not?  
 
 8. Write a program to implement MD5 one way hash function.
 
