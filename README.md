@@ -1,7 +1,9 @@
 # Lab Specification
-### B.Sc. Engg. Part 4, Even Semester, Session: 2018-2019, Examination 2022
-### CSE-4232P (Cryptography and Network Security)
+## B.Sc. Engg. Part 4, Even Semester, Session: 2018-2019, Examination 2022
 
+CSE-4232P (Cryptography and Network Security)
+
+---
 
 This repository contains the solutions to various cryptography and network security problems as part of the CSE-4232P (Cryptography and Network Security) lab course, taught in the B.Sc. Engineering Part 4, Even Semester, Session: 2018-2019, University of Rajshahi.
 
