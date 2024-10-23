@@ -32,7 +32,7 @@ CSE-4232P (Cryptography and Network Security)
 
 ✅ 5. You are supplied a file of large nonrepeating set of truly random key letter. Your job is to encrypt the plaintext using ONE TIME PAD technique. Then perform the reverse operation to get original plaintext.
 
-6. Use the Lehmann algorithm to check whether the given number P is prime or not?
+✅ 6. Use the Lehmann algorithm to check whether the given number P is prime or not?
 
 7. Use the Robin-Miller algorithm to check whether the given number P is prime or not?  
 
