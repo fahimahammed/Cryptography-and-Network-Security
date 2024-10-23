@@ -1,25 +1,6 @@
-# Cryptography-and-Network-Security
-
-## Problems:
-1. Caesar cipher - OK
-2. Lehmanns Primality Test - OK
-3. Miller-Rabin Primality Test - OK
-4. Polygram Substitution Cipher - OK
-5. Transposition Cipher - OK
-6. Double Transposition Cipher  - OK
-7. One Time Pad - OK
-8. Lehmann Algorithm - OK
-9. MD5 - OK
-10. SHA - OK
-11. RSA Algorithm - OK
-12. Diffie-Hellman Key Exchange - OK
-
-
-
-Lab Specification
-B.Sc. Engg. Part 4, Even Semester, Session: 2017-2018, Examination 2021
-CSE-4232P (Cryptography and Network Security)
-
+# Lab Specification
+### B.Sc. Engg. Part 4, Even Semester, Session: 2018-2019, Examination 2022
+### CSE-4232P (Cryptography and Network Security)
 
 
 ✅ 1. Suppose you are given a line of text as a plaintext, find out the corresponding Caesar Cipher (i.e. character three to the right modulo 26). Then perform the reverse operation to get original plaintext.
@@ -40,9 +21,9 @@ CSE-4232P (Cryptography and Network Security)
 
 9. Write a program to implement Secured Hash Algorithm (SHA) one way hash function.
 
-10. Encrypt the plaintext message using RSA algorithm. Then perform the reverse operation to get original plaintext.
+✅ 10. Encrypt the plaintext message using RSA algorithm. Then perform the reverse operation to get original plaintext.
 
-11. Write a program to implement Diffie-Hellman Key Exchange.
+✅ 11. Write a program to implement Diffie-Hellman Key Exchange.
 
 
 
