@@ -2,6 +2,8 @@
 ### B.Sc. Engg. Part 4, Even Semester, Session: 2018-2019, Examination 2022
 ### CSE-4232P (Cryptography and Network Security)
 
+This repository contains the solutions to various cryptography and network security problems as part of the CSE-4232P (Cryptography and Network Security) lab course, taught in the B.Sc. Engineering Part 4, Even Semester, Session: 2018-2019, University of Rajshahi.
+---
 
 ✅ 1. Suppose you are given a line of text as a plaintext, find out the corresponding Caesar Cipher (i.e. character three to the right modulo 26). Then perform the reverse operation to get original plaintext.
 
