@@ -25,22 +25,4 @@
 
 ✅ 11. Write a program to implement Diffie-Hellman Key Exchange.
 
-
-
-
-
-
-
-
-
-
-
-
-
-(Md. Tohidul Islam)
-Associate Professor
-Dept. of CSE
-University of Rajshahi
-
-
-
+---
