@@ -28,7 +28,7 @@ CSE-4232P (Cryptography and Network Security)
 
 ✅ 3. Consider the plaintext “DEPARTMENT OF COMPUTER SCIENCE AND TECHNOLY UNIVERSITY OF RAJSHAHI BANGLADESH”, find out the corresponding Transposition Cipher (Take width as input). Then perform the reverse operation to get original plaintext.
 
-4. Find out corresponding double Transposition Cipher of the above plaintext. Then perform the reverse operation to get original plaintext.
+✅ 4. Find out corresponding double Transposition Cipher of the above plaintext. Then perform the reverse operation to get original plaintext.
 
 5. You are supplied a file of large nonrepeating set of truly random key letter. Your job is to encrypt the plaintext using ONE TIME PAD technique. Then perform the reverse operation to get original plaintext.
 
